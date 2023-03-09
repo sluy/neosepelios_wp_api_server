@@ -1,0 +1,145 @@
+[2023-03-09 11:04:50] INFO: WhatsAPI v1.0.9 is running on port undefined
+[2023-03-09 11:04:50] INFO: Checking for updates 🔃
+[2023-03-09 11:04:51] WARNING: There is a new version of WhatsAPI available. Consider updating ASAP!
+[2023-03-09 11:06:17] INFO: Initializing WhatsApp Module
+[2023-03-09 11:06:17] INFO: WhatsApp Module is Ready ✅
+[2023-03-09 11:35:21] INFO: WhatsAPI v1.0.9 is running on port 3000
+[2023-03-09 11:35:21] INFO: Checking for updates 🔃
+[2023-03-09 11:35:22] WARNING: There is a new version of WhatsAPI available. Consider updating ASAP!
+[2023-03-09 11:35:22] INFO: Initializing WhatsApp Module
+[2023-03-09 11:35:22] INFO: WhatsApp Module is Ready ✅
+[2023-03-09 11:52:56] INFO: WhatsAPI v1.0.11 is running on port 3000
+[2023-03-09 11:52:56] INFO: Checking for updates 🔃
+[2023-03-09 11:52:57] INFO: Initializing WhatsApp Module
+[2023-03-09 11:52:57] INFO: WhatsApp Module is Ready ✅
+[2023-03-09 11:57:00] INFO: Instance Prueba registered successfully
+[2023-03-09 11:57:19] INFO: New QR Code Received for Instance Prueba
+[2023-03-09 11:57:58] INFO: New QR Code Received for Instance Prueba
+[2023-03-09 11:58:24] INFO: LOADING Prueba: 0%
+[2023-03-09 11:58:27] INFO: LOADING Prueba: 100%
+[2023-03-09 11:58:31] INFO: Instance Prueba authenticated successfully
+[2023-03-09 11:58:32] INFO: Instance Prueba is ready. WWeb Version: 2.2311.5
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 11:58:32] ERROR: Unhandled Rejection: Error: Evaluation failed: TypeError: Cannot read properties of undefined (reading 'notSpam')
+    at t.isTrusted (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:674791)
+    at h.downloadMedia (https://web.whatsapp.com/app.dffd6711ee54ff488a6c.js:72:662717)
+    at __puppeteer_evaluation_script__:8:27
+[2023-03-09 12:09:54] INFO: Instance prueba-laravel registered successfully
+[2023-03-09 12:09:54] ERROR: Unhandled Exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[2023-03-09 12:10:04] INFO: Instance laraveltest registered successfully
+[2023-03-09 12:10:11] INFO: Instance laravel-test registered successfully
+[2023-03-09 12:10:11] ERROR: Unhandled Exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[2023-03-09 12:10:20] INFO: New QR Code Received for Instance prueba-laravel
+[2023-03-09 12:10:45] INFO: New QR Code Received for Instance laraveltest
+[2023-03-09 12:11:02] INFO: New QR Code Received for Instance laravel-test
