@@ -1,0 +1,13 @@
+[v1.0.1 - 01-04-2023]
+- Reduced RAM usage in ~10%
+- Added better logs for troubleshooting
+
+[v1.0.2 - 01-11-2023]
+- Updated to new WhatsApp Version 2.2306.7
+- Added a self-updater
+
+[v1.0.9 - 02-09-2023]
+- Updated to new WhatsApp Version
+- Added Ability to select which events to listen on webhooks
+- Improved Optimized instance session storage
+- Added Get QR Code endpoint
